@@ -1,6 +1,6 @@
 # interview-questions
 
-##HTML
+## HTML
 
 ### What is DOCTYPE?
 
@@ -10,8 +10,8 @@
 ### What is quirks mode?
 *
 
-##CSS
+## CSS
 
-###What is the difference between background and background-color
+### What is the difference between background and background-color
 *
 *
