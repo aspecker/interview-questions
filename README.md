@@ -8,10 +8,12 @@
 * 
 
 ### What is quirks mode?
-*
+
+* quirks mode allows old, unused, outdated versions etc. of browsers 
 
 ## CSS
 
 ### What is the difference between background and background-color
+
 *
 *
