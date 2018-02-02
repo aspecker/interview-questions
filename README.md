@@ -5,7 +5,9 @@
 ### What is DOCTYPE?
 
 * A keyword that alerts the browser how to process a file
-* 
+*
+
+### What is the difference between span and div?
 
 ### What is quirks mode?
 
