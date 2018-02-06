@@ -6,6 +6,7 @@
 
 * A keyword that alerts the browser how to process a file
 *
+### What are optional HTML closing tags? Why are they useful?
 
 ### What is the data-* attribute?
 * composed of a string with format "data-x" where x can be any string with no uppercase letters at least one character long
