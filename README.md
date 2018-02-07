@@ -27,8 +27,12 @@
 * http://htmldog.com/guides/html/intermediate/spandiv/
 
 ### What is quirks mode?
-
 * quirks mode allows old, unused, outdated versions etc. of browsers 
+
+### What is ARIA?
+* Aria - Accessible Rich Internet Applications - set of accessibility attributes added to HTML for people with disables
+* uses **role** attribute 
+* https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
 
 ## CSS
 
@@ -39,5 +43,11 @@
 * https://stackoverflow.com/questions/10205464/what-is-the-difference-between-background-and-background-color
 
 ## Javascript
+
+### What is hoisting?
+* 'pulls' function above where it is declared if it is called higher in the document
+* a variable can be declared after it is used
+* only applies to declarations not initilizations
+* https://www.w3schools.com/js/js_hoisting.asp
 
 
