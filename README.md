@@ -29,6 +29,10 @@
 ### What is quirks mode?
 * quirks mode allows old, unused, outdated versions etc. of browsers 
 
+### When to use section, div, or article?
+
+### What is semantic HTML?
+
 ### What is ARIA?
 * Aria - Accessible Rich Internet Applications - set of accessibility attributes added to HTML for people with disables
 * uses **role** attribute 
