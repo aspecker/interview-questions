@@ -29,6 +29,9 @@
 ### What is quirks mode?
 * quirks mode allows old, unused, outdated versions etc. of browsers 
 
+### What is the difference between svg and canvas?
+* https://stackoverflow.com/questions/4996374/what-is-the-difference-between-svg-and-html5-canvas
+
 ### When to use section, div, or article?
 
 ### What is semantic HTML?
